@@ -1,0 +1,15 @@
+{
+  "I": {
+    "1": {
+      "name": "Hasan",
+      "father_name": "Absar",
+      "grade": "I",
+      "roll_number": "1",
+      "subjects": [
+        "Python",
+        "Java",
+        "C#"
+      ]
+    }
+  }
+}
